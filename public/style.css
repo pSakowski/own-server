@@ -1,0 +1,14 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+img {
+  width: 55vh;
+  height: 55vh;
+}
+
+.aboutPage {
+  background-color: #1c1c1c;
+  color: white;
+}
